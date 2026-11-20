@@ -1,4 +1,5 @@
 {
+  "name": "betterjson",
   "type": "lib",
   "entry": "betterjson.py",
   "version": "1.0.0"
